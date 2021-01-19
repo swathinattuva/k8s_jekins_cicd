@@ -1,5 +1,5 @@
 # Clone the repository
-git clone https://github.com/PrasadTelasula/k8s_jekins_cicd.git
+git clone https://github.com/swathinattuva/k8s_jekins_cicd.git
 
 # Build Docker images locally
 docker build -t my_jenkins .
